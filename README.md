@@ -1,6 +1,6 @@
 # Assesment Test - Afiyah S M Ramadhan
 
-Selamat Pagi, Berikut saya lampirkan
+Berikut saya lampirkan jawaban dari Assesment Test yang sudah diberikan :
 
 ![Assesment Test Answer](https://github.com/afiyahsm24/AssesmentTestAfiyah/blob/f48faf931266b2069a685536a499b16c0c56e8e4/Assesment%20Test%20-%20Afiyah%20S%20M%20Ramadhan.pdf)
 
