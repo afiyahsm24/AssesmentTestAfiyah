@@ -1,4 +1,7 @@
 # Assesment Test - Afiyah S M Ramadhan
+
+![Assesment Answer](https://github.com/afiyahsm24/AssesmentTestAfiyah/blob/f48faf931266b2069a685536a499b16c0c56e8e4/Assesment%20Test%20-%20Afiyah%20S%20M%20Ramadhan.pdf)
+
 Design simple dashboard
 https://app.powerbi.com/view?r=eyJrIjoiMDczNDM5MjMtMDc3Ni00MTNjLTgzYTgtMzhmY2U2NmIxYmYwIiwidCI6IjNjYjUwZGViLWUxNTctNGY0OS1hMWIwLWI4MWJmOWQyOTJiNCIsImMiOjEwfQ%3D%3D
 
